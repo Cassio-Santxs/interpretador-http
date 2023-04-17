@@ -8,7 +8,7 @@ class Program
     {
         CultureInfo.CurrentCulture = new CultureInfo("pt-BR");
 
-        Console.WriteLine("----------     INTERPRETADOR DE REQUISIÇÃO PROTOCOLO HTTP     ----------");
+        Console.WriteLine("\n----------     INTERPRETADOR PROTOCOLO HTTP     ----------");
         
         bool flag = false;
         int typeHttp = 0;
@@ -55,19 +55,19 @@ class Program
             }
            
             Console.WriteLine("\nMÉTODO HTTP OU STATUS CODE: \n" + httpMetodOrStatus + "\n");
-
+            
+            Console.WriteLine("CORPO DA MENSAGEM:");
             if (http.Length > 1) {
                 var body = http[1];
-                Console.WriteLine("CORPO DA MENSAGEM:");
-                Console.WriteLine(body);
+                Console.WriteLine(body + "\n");
             } else {
-                Console.WriteLine("Esta requisão não possui um corpo");
+                Console.WriteLine("Esta requisão ou resposta não possui um corpo\n");
             }
 
         } catch (Exception ex) {
             Console.WriteLine("/////////////////////////////////////////");
             Console.WriteLine("ERRO NA LEITURA: " + ex.Message.ToString());
-            Console.WriteLine("/////////////////////////////////////////");
+            Console.WriteLine("/////////////////////////////////////////\n");
         }
     }
 }
