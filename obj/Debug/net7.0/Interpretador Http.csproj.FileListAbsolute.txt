@@ -1,0 +1,15 @@
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\bin\Debug\net7.0\Interpretador Http.exe
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\bin\Debug\net7.0\Interpretador Http.deps.json
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\bin\Debug\net7.0\Interpretador Http.runtimeconfig.json
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\bin\Debug\net7.0\Interpretador Http.dll
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\bin\Debug\net7.0\Interpretador Http.pdb
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.csproj.AssemblyReference.cache
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.AssemblyInfoInputs.cache
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.AssemblyInfo.cs
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.csproj.CoreCompileInputs.cache
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.dll
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\refint\Interpretador Http.dll
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.pdb
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\Interpretador Http.genruntimeconfig.cache
+C:\Users\cassi\OneDrive\Documentos\Projetos\Interpretador Http\obj\Debug\net7.0\ref\Interpretador Http.dll
